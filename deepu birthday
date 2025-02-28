@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Deepu!</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: pink;
+            font-family: Arial, sans-serif;
+        }
+        .video-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>HAPPY BIRTHDAY DEEPU💗🫂</h1>
+    <h2>MY BESTESTTTTTTT FRIEND💗🥰</h2>
+
+    <div class="video-container">
+        <video width="720" height="480" controls>
+            <source src="https://drive.google.com/uc?export=download&id=1-hZTFHQ8RVLSZCv-ujwJTarHgH6xm5AN" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+</body>
+</html>
